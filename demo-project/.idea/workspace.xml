@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e78d4a3f-4914-4736-879b-3a3781bbbcdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../assignment09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/00-slides/01-state-hook.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/00-slides/02-effect-hook.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/00-slides/02-effect-lifecycle-clean-up.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/00-slides/02-effect-lifecycle-no-clean-up.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/00-slides/02-effect-lifecycle.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment09/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apis/axiosClient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apis/groups/group-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apis/log-in/log-in-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apis/users/user-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive-app-bar.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/table/table-body.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/table/table-head.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/table/table.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/error/forbidden.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/group/group.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/home/home.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/navigation/navigation.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/sign-in/sign-in.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/group/group.slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/log-in/log-in.slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/menu/menu.action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/menu/menu.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/menu/menu.slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/root-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/user/user.slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/auth/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/storage/storage.utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/components/count/count-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/components/count/count.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux-toolkit-demo/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/store/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/store/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/store/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/store/sumReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoReact/helloworld" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoReact/helloworld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment04" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud-assignment-ui-library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../crud-assignment-ui-library/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crwn-clothing-v2-lesson-25/src/contexts/cart.context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../crwn-clothing-v2-lesson-25/src/contexts/cart.context.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crwn-clothing-v2-lesson-25/src/contexts/user.context.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../crwn-clothing-v2-lesson-25/src/contexts/user.context.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-react" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-react" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Di9bqgZrNS0BfmlYtTmctPhCZo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/haiva/Downloads/Compressed/java-advanced-main/java-advanced-main/final-exam-02&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haiva\OneDrive\Desktop\VTI\reactjs\demo-project\src\apis\log-in" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\haiva\OneDrive\Desktop\VTI\reactjs\demo-project\src\components\table" />
+      <recent name="C:\Users\haiva\OneDrive\Desktop\VTI\reactjs\demo-project\src\utils" />
+      <recent name="C:\Users\haiva\OneDrive\Desktop\VTI\reactjs\demo-project\src\apis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e78d4a3f-4914-4736-879b-3a3781bbbcdd" name="Changes" comment="" />
+      <created>1661171115565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661171115565</updated>
+      <workItem from="1661171117778" duration="4854000" />
+      <workItem from="1661184057530" duration="598000" />
+      <workItem from="1661501568635" duration="10640000" />
+      <workItem from="1661515625443" duration="3339000" />
+      <workItem from="1661519805182" duration="7085000" />
+      <workItem from="1661591819248" duration="2444000" />
+      <workItem from="1661652438976" duration="10916000" />
+      <workItem from="1661774720053" duration="10881000" />
+      <workItem from="1662329913038" duration="2045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

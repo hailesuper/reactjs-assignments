@@ -10,7 +10,7 @@ export const UserContext = createContext({
   currentUser: null,
 });
 
-const userReducer = 
+// const userReducer =
 
 export const UserProvider = ({ children }) => {
   // const [currentUser, setCurrentUser] = useState(null);

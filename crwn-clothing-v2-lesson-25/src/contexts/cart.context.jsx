@@ -48,7 +48,15 @@ export const CartContext = createContext({
   cartCount: 0,
   cartTotal: 0,
 });
+// INITIAL STATE
 
+// ACTIONS
+
+
+// REDUCER
+
+
+// DISPATCH
 export const CartProvider = ({ children }) => {
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [cartItems, setCartItems] = useState([]);
